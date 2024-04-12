@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1faf0cca53059a248ad2f39a9901f1a8, type: 3}
+  m_Name: Woman&Child
+  m_EditorClassIdentifier: 
+  characterName: "\u0632\u0646"
+  characterAOC: {fileID: 22100000, guid: 72e582d0a0b5fcf4492a8a06eb589296, type: 2}
+  emotionPortrait:
+    standard: {fileID: 1286425092, guid: 3e7376bd7c220f347837de7a364e1a4c, type: 3}
+    angry: {fileID: -530117114, guid: 3e7376bd7c220f347837de7a364e1a4c, type: 3}
+    scared: {fileID: -29008081, guid: 90cbef49dba36df49bab3a8ab56a71df, type: 3}

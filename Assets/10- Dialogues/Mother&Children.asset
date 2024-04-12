@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591ee8d4bd417a348aad2bba78f9db2d, type: 3}
+  m_Name: Mother&Children
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: ed4637970f10b1348a7663c5a0697981, type: 2}
+    myText: "\u0647\u0645\u0634 \u062A\u0642\u0635\u06CC\u0631 \u062A\u0648\u0639\u0647...
+      \u062E\u0648\u062F\u062A \u0628\u0627\u06CC\u062F \u062F\u0631\u0633\u062A\u0634
+      \u06A9\u0646\u06CC..."
+    characterEmotion: 1
