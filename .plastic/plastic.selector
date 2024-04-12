@@ -1,0 +1,4 @@
+repository "OneEye Standard 1@MarionOdyssey@cloud"
+  path "/"
+    br "/main"
+    co "/main"

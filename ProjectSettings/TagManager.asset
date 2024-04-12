@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TrainTarget
+  - People
+  - FreezeTarget
+  - Tram
+  - Collectable
+  - Collect
+  - Enemy
+  - DialogueTrigger
+  - RockProjectile
+  - Ground
+  - NPC
+  - Teleport
+  - SceneExit
+  - GM
+  - Audio
+  - LoadingCanvas
+  - Fireball
+  - Rock
+  - Tears
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - NonVisible
+  - Terrain
+  - Hit
+  - 
+  - whatIsGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1054237881
+    locked: 0
+  - name: BackgroundFog
+    uniqueID: 1387088307
+    locked: 0
+  - name: MiddleGroundFog
+    uniqueID: 501587135
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 2386314829
+    locked: 0
+  - name: Characters
+    uniqueID: 2695753173
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3773888465
+    locked: 0
+  - name: ForeGroundFog
+    uniqueID: 1083340217
+    locked: 0
+  - name: SilhouetteForeGround
+    uniqueID: 383461771
+    locked: 0
